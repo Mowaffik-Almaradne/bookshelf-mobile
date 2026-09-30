@@ -2,7 +2,7 @@
 
 ## Tools
 
-- **Cursor (Agent mode, Composer)** — scaffolding and implementation driven by `docs/prompts/` (networking → domain/data → search → images → shelf → details → hardening → deliverables).
+- **AI coding assistant** — scaffolding and implementation driven by `docs/prompts/` (networking → domain/data → search → images → shelf → details → hardening → deliverables).
 - **Xcode** — iOS 17 / Swift 6 target settings, simulator QA, signing.
 - **Independent grading** — `docs/prompts/92_GRADE.md` adversarial pass; findings fixed in a follow-up hardening pass (paginator end rule, `CoverView` race, offline cover policy).
 

@@ -79,7 +79,7 @@ caught, including how you noticed it**.
 - …
 
 ### Phase 10 — Hardening — 2026-09-29
-- Model / tool: Cursor agent (Composer) as hostile senior reviewer + implementer
+- Model / tool: AI coding assistant as hostile senior reviewer + implementer
 - Prompt used: `docs/prompts/13_HARDENING.md` (Part A agent pass; Part B manual passes still for human)
 - What came out: Full findings table; fixed pagination stuck-after-cancel (R2.4), cancelled
   first-page spinner, `lastError` alert, “Showing saved copy” on failed online refresh,

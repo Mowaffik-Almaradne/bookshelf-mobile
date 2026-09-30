@@ -94,7 +94,7 @@ See AI_NOTES.md. Planning docs in `docs/`.
 # AI notes
 
 ## Tools
-- Cursor (Agent mode, model <X>) — planning docs, scaffolding, first drafts of each layer, test scaffolds.
+- AI coding assistant — planning docs, scaffolding, first drafts of each layer, test scaffolds.
 - <ChatGPT/Claude/…> — independent code review/grading pass (docs/14 Prompt G).
 - Xcode predictive completion — small completions.
 Parts NOT written by AI: <e.g. final wording of README/AI_NOTES, manual Xcode configuration, Instruments/Link Conditioner QA, decisions in docs/02 decision log>.
